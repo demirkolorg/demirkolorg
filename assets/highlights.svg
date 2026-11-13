@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="116" viewBox="0 0 1100 116" role="img" aria-label="Vitrin projeleri, web ve mobil uygulamalar, kurumsal sistemler ve geliştirici araçları">
+<rect width="1100" height="116" rx="15" fill="#0C1626"/>
+<rect x="5" y="7" width="263" height="102" rx="13" fill="#142235" stroke="#304358"/><rect x="284" y="7" width="263" height="102" rx="13" fill="#142235" stroke="#304358"/><rect x="563" y="7" width="263" height="102" rx="13" fill="#142235" stroke="#304358"/><rect x="842" y="7" width="263" height="102" rx="13" fill="#142235" stroke="#304358"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="56" font-size="35" font-weight="700" fill="#70DCC8">06</text><text x="89" y="49" font-size="19" font-weight="700" fill="#F3F6FD">Seçili Proje</text><text x="89" y="75" font-size="14" fill="#9DB5CB">Herkese açık vitrin</text>
+<text x="309" y="50" font-size="28" fill="#78BCF0">◇</text><text x="353" y="49" font-size="19" font-weight="700" fill="#F3F6FD">Web &amp; Mobil</text><text x="353" y="75" font-size="14" fill="#9DB5CB">Uygulama geliştirme</text>
+<text x="587" y="50" font-size="28" fill="#E9C7A9">▥</text><text x="633" y="49" font-size="19" font-weight="700" fill="#F3F6FD">Kurumsal Sistemler</text><text x="633" y="75" font-size="14" fill="#9DB5CB">Veri ve iş süreçleri</text>
+<text x="867" y="50" font-size="28" fill="#F7A661">⌘</text><text x="913" y="49" font-size="19" font-weight="700" fill="#F3F6FD">Ürün Geliştirme</text><text x="913" y="75" font-size="14" fill="#9DB5CB">Araçlar &amp; deneyim</text>
+</g></svg>
